@@ -1,0 +1,17 @@
+.card{
+font-family: sans-serif;
+position: relative;
+top:18vh;
+margin-right:7%;
+}
+.numbers{
+    color: white;
+    font-weight: lighter;
+    font-size:30px;
+}
+.text{
+    color:whitesmoke;
+    font-weight: lighter;
+    position: relative;
+    top:-1vh;
+}

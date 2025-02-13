@@ -1,0 +1,43 @@
+.signin-container{
+    color:white;
+    font-family: sans-serif;
+    border:1px solid white;
+    width:40%;
+    height:40vh;
+    position: relative;
+    top:20vh;
+    left:28vw;
+    background-color:rgba(0,0,0,0.4);
+    border-radius:20px;
+}
+.Sign-in{
+    text-align: center;
+}
+.Username-input{
+    outline: none;
+    width:13vw;
+    height:40px;
+    padding:0 25px;
+    border-radius:20px;
+}
+.Password-input{
+    outline: none;
+    width:13vw;
+    height:40px;
+    padding:0 25px;
+    border-radius:20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top:7%;
+    margin-left:20%;
+}
+.submit-button{
+    width:5vw;
+    height:30px;
+    border:0;
+    border-radius:20px;
+    position: relative;
+    font-weight:700;
+}
