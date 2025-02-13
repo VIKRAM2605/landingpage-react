@@ -15,7 +15,7 @@ export default function Signin() {
         <label>Password&nbsp;&nbsp;:&nbsp;</label>
         <input type='password' name='password' placeholder='Enter your password' required className='Password-input'/></div>
         <br />
-        <button className='submit-button' onClick={()=>{navigate('/')}}>Submit</button>
+        <button className='submit-button' onClick={()=>{navigate('/landingpage-react/')}}>Submit</button>
       </form>
     </div>
   )

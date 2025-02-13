@@ -16,12 +16,12 @@ function App() {
     <div className="mainpage">
     <Navigation></Navigation>
       <Routes>
-        <Route path='/' element={<Home/>}></Route>
-        <Route path='/Book Now' element={<Booknow/>}></Route>
-        <Route path='/Popular Places' element={<Popularplace/>}></Route>
-        <Route path='/Signin' element={<Signin/>}></Route>
-        <Route path='/Logout' element={<Logout/>}></Route>
-        <Route path='/Contactus' element={<Contact/>}></Route>
+        <Route path='/landingpage-react/' element={<Home/>}></Route>
+        <Route path='/landingpage-react/Book Now' element={<Booknow/>}></Route>
+        <Route path='/landingpage-react/Popular Places' element={<Popularplace/>}></Route>
+        <Route path='/landingpage-react/Signin' element={<Signin/>}></Route>
+        <Route path='/landingpage-react/Logout' element={<Logout/>}></Route>
+        <Route path='/landingpage-react/Contactus' element={<Contact/>}></Route>
         </Routes>
       </div>
     </>

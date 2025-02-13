@@ -4,7 +4,7 @@
 }
 body{
   margin:0;
-  background-image:linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), url("4k-moving-light-through-a-landscape-hamrnczhr7vgoax8.jpg");
+  background-image:linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5)), url("../public/4k-moving-light-through-a-landscape-hamrnczhr7vgoax8.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
